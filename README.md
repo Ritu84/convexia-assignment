@@ -93,6 +93,11 @@ The result is a structured, easy-to-use summary of drug information.
    - **Limits**: 500 articles per query (configurable)
    - **Processing**: Batch processing for large result sets
 
+4. **Google Patents**
+   - **Coverage**: Global database of patents, including biomedical, pharmaceutical, and biotech innovations
+   - **Access Method**: Custom scraper or API to extract metadata and full-text when available
+
+
 ### Data Quality Assurance
 - **Cross-Validation**: Information verified across multiple sources
 - **Recency Filters**: Prioritizes recent publications and trials
